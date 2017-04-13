@@ -1,0 +1,3 @@
+[submodule "TestSub"]
+	path = TestSub
+	url = https://github.com/xiaweicheng/TestSub
